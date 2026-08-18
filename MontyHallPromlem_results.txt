@@ -1,0 +1,14 @@
+Monty Hall Problem
+==================
+
+Total games played: 10000
+Wins by switching:  6626
+Percentage of times guess was right = % 66.26
+
+Total games played: 100000
+Wins by switching:  66321
+Percentage of times guess was right = % 66.321
+
+Total games played: 1000000
+Wins by switching:  667509
+Percentage of times guess was right = % 66.7509
